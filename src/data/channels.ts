@@ -12,7 +12,7 @@ export const subscribedChannels: Channel[] = [
   },
   {
     id: '2',
-    name: 'CookingMaster',
+    name: 'Cookingforce',
     avatar:
       'https://images.unsplash.com/photo-1512485694743-9c9538b4e6e0?w=150&q=80',
     subscribers: '1.8M',
@@ -44,6 +44,7 @@ export const subscribedChannels: Channel[] = [
     name: 'Art Studio',
     avatar:
       'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=150&q=80',
-    subscribers: '943K',
+    subscribers: '94K',
   },
+
 ];
